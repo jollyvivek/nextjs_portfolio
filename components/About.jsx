@@ -29,10 +29,10 @@ const About = () => {
                 </ul>
                 {/* tools */}
                 <h4 className='my-6 text-gray-700 text-xl'>Tools I use</h4>
-                <ul className='flex items-center gap-3 sm:gap-5'>
+                <ul className='flex items-center justify-between flex-wrap gap-3 '>
                     {toolsData.map((tool,index)=>(
                         <li key={index} className='flex flex-wrap items-center justify-center w-8 sm:w-10 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:bg-blue-100 hover:-translate-x-1 duration-500 '>
-                            <Image src={tool} className='w-5 sm:w-7' alt='tool' />
+                            <Image src={tool} className='w-5 sm:w-3' alt='tool' />
                         </li>
                     ))}
                 </ul>
