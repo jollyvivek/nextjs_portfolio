@@ -16,7 +16,7 @@ const Header = () => {
         companies like RW Infotech, Bfox Pvt Lmt.</p>
         <div className='flex flex-col sm:flex-row justify-center items-center gap-4 mt-4'>
           <a href="#contact" className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2'>Contact Me <Image src={assets.right_arrow_white} className=' w-4' alt=''/>  </a>
-          <a href="/VivekCVREACT.pdf" target='_blank' download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2'>
+          <a href="/VivekCVMERN.pdf" target='_blank' download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2'>
           My CV<Image src={assets.download_icon} className=' w-4' alt=''/>  </a>
         </div>
 
