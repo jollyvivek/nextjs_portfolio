@@ -12,7 +12,7 @@ const About = () => {
             <Image src={assets.user_image} className='w-full rounded-3xl' alt='user'/>
         </div>
         <div className='flex-1'>
-                <p className='mb-10 max-w-2xl font-Ovo'>Skilled REACT JS Developer with 1.5 years of experience in front-end and back-end development, specializing in React.js, 
+                <p className='mb-10 max-w-2xl font-Ovo'>Skilled REACT JS Developer with 1.9 years of experience in front-end and back-end development, specializing in React.js, 
                     Next.js, Node.js, Express and MongoDB. Proficient in converting designs from Figma into responsive, accessible web
                      applications .Passionate about building efficient, scalable, and user-friendly solutions. Seeking opportunities to 
                      leverage my expertise and contribute to the success of an organization while continuing to grow and learn.

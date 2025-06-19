@@ -112,6 +112,14 @@ export const workData = [
 ]
 
 export const projects = [
+    {   title:'ERP Web Application',
+        description:"Developed a full-stack ERP (Enterprise Resource Planning) web application.",
+        desc1:"Implemented user authentication and email functionality for secure user management and communication.",
+        desc2:"Built responsive and user-friendly UI using React.js and Bootstrap.",
+        desc3:"Designed and integrated RESTful APIs with Node.js and Express.js.Utilized MongoDB for scalable data storage and management.Deployed the application on Vercel for production use.",
+        info:"This project demonstrates proficiency in Mern Stack. I used differnt technolgy like Reactjs, Node.js, Express.js, MongoDB, Bootstrap, making it a well-structured and functional website.",
+        websiteLink:"https://erp-frontend-eight-mu.vercel.app/"
+    },
     {title:'REIS – Rhombus Education & Immigration Services Website',
         description:"The REIS website is a fully responsive platform built using React.js and Bootstrap CSS. Designed for seamless browsing and efficient user interaction, this project includes:",
         desc1:"Smooth Scrolling: Enhances navigation for a better user experience.",
@@ -154,7 +162,7 @@ export const serviceData = [
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js,Next Js' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Sc(IT) in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 10+ projects' }
 ];
 
 export const toolsData = [
