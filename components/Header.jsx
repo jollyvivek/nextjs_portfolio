@@ -12,7 +12,7 @@ const Header = () => {
             <Image src={assets.hand_icon} className='w-6' alt=''/> 
         </h3>
         <h1 className='text-3xl sm:text-5xl lg:text-[66px]'>Frontend ReactJs Developer and MERN Stack Developer.</h1>
-        <p className='max-w-2xl mx-auto'>I am a frontend developer from Ambala, Haryana with 1.5 years of experience in React Js and 7 month in Mern stack 
+        <p className='max-w-2xl mx-auto'>I am a frontend developer from Ambala, Haryana with 1.3 years of experience in React Js and 9 month in Mern stack 
         companies like RW Infotech, Bfox Pvt Lmt.</p>
         <div className='flex flex-col sm:flex-row justify-center items-center gap-4 mt-4'>
           <a href="#contact" className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2'>Contact Me <Image src={assets.right_arrow_white} className=' w-4' alt=''/>  </a>
