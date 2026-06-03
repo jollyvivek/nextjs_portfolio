@@ -7,8 +7,8 @@ const Services = () => {
     <div id='services' className='w-full px-[12%] py-10 scroll-mt-20' >
       <h4 className='text-center mb-2 text-lg'>What I offers</h4>
       <h2 className='text-center text-5xl'>My Services</h2> 
-      <p className='max-w-2xl mx-auto mt-5 mb-12 text-center'>I am a frontend developer from Ambala, Haryana with 1.5 years of experience in React Js and 7+ month in Mern stack 
-      companies like RW Infotech, Bfox Pvt Lmt.</p>
+      <p className='max-w-2xl mx-auto mt-5 mb-12 text-center'>I am a frontend developer from Ambala, Haryana with 2.3 years of experience in React Js and 1+ years in Mern stack 
+      companies like RW Infotech, Bfox Pvt Lmt and Ewyas pvt Lmt.</p>
         <div className='grid grid-cols-auto   gap-6 my-10 md:grid-cols-3'>
             {serviceData.map(({icon,title,description,link},index)=>(
                 <div key={index} className=' border border-gray-400 rounded-lg px-8 py-12 hover:shadow-black cursor-pointer hover:bg-blue-100 hover:-translate-y-1 duration-300'>
