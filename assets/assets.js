@@ -128,6 +128,14 @@ export const projects = [
         info:"This project demonstrates proficiency in React.js, Bootstrap, and modern web design, making it a well-structured and functional website for Rhombus Education and immigration services.",
         websiteLink:"https://www.rhombuseducation.com/"
     },
+    {   title:'Tomato Food Ordering Web Application',
+        description:"Tomato Food Ordering full-stack web application.",
+        desc1:"Implemented user authentication and payment gateway impliment like Strpi and Rozorpay for user easily order.",
+        desc2:"Built responsive and user-friendly UI using React.js and Bootstrap.",
+        desc3:"Designed and integrated RESTful APIs with Node.js and Express.js.Utilized MongoDB for scalable data storage and management.Deployed the application on Vercel for production use.",
+        info:"This project demonstrates proficiency in Mern Stack. I used differnt technolgy like Reactjs, Node.js, Express.js, MongoDB, Bootstrap, making it a well-structured and functional website.",
+        websiteLink:"https://food-dell-mern-app.vercel.app/"
+    },
     {title:'Edusity – College & University Website',
         description:"Edusity is a fully responsive college/university website built using React.js. This project showcases modern web development practices, incorporating key features such as:",
         desc1:"Smooth Scrolling: Enhanced user experience with seamless navigation.",
