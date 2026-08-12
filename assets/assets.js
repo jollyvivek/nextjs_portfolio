@@ -136,6 +136,25 @@ export const projects = [
         info:"This project demonstrates proficiency in Mern Stack. I used differnt technolgy like Reactjs, Node.js, Express.js, MongoDB, Bootstrap, making it a well-structured and functional website.",
         websiteLink:"https://food-dell-mern-app.vercel.app/"
     },
+
+    {   title:'Full-Stack Real-Time Chat Application',
+        description:"A modern real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js)",
+        desc1:"Real-time messaging is powered by Socket.IO, providing fast, bidirectional communication between the client and server.",
+        desc2:"Built responsive and user-friendly UI using React.js and Bootstrap.",
+        desc3:"The project also includes user authentication, message handling, responsive UI, and database integration.",
+        info:"This project demonstrates proficiency in Mern Stack. I used differnt technolgy like React.js, Node.js, Express.js, MongoDB, Socket.IO, JavaScript, HTML, CSS,tailwind, making it a well-structured and functional website.",
+        websiteLink:"https://mern-chat-app-iota-two.vercel.app/"
+    },
+
+
+
+
+
+
+
+
+
+
     {title:'Edusity – College & University Website',
         description:"Edusity is a fully responsive college/university website built using React.js. This project showcases modern web development practices, incorporating key features such as:",
         desc1:"Smooth Scrolling: Enhanced user experience with seamless navigation.",
