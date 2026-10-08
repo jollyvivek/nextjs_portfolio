@@ -146,15 +146,6 @@ export const projects = [
         websiteLink:"https://mern-chat-app-iota-two.vercel.app/"
     },
 
-
-
-
-
-
-
-
-
-
     {title:'Edusity – College & University Website',
         description:"Edusity is a fully responsive college/university website built using React.js. This project showcases modern web development practices, incorporating key features such as:",
         desc1:"Smooth Scrolling: Enhanced user experience with seamless navigation.",
@@ -170,13 +161,17 @@ export const projects = [
         desc3:"Working Contact Form: Allows users to send inquiries directly to the admin email.",
         info:"This project demonstrates expertise in React.js, Tailwind CSS, and UI/UX development, creating a modern and efficient platform for real estate businesses.",
         websiteLink:"https://real-estate-project-theta-gold.vercel.app/"
+    },
+
+    {title:'HR Management System',
+        description:"A full-stack HR Management System built with the MEAN Stack (MongoDB, Express.js, Angular, Node.js).",
+        desc1:"The application helps manage employees, leave requests, and HR-related operations through a responsive and user-friendly interface.",
+        desc2:"Responsive Design: Adapts perfectly to all screen sizes.",
+        desc3:"Working with Form: Allows users to send inquiries directly to the admin email.",
+        info:"Employee management, CRUD operations, leave management, RESTful APIs, form validation, and responsive UI.",
+        websiteLink:"https://angular-app-one-xi.vercel.app/"
     }
 ]
-
-
-
-
-
 
 
 export const serviceData = [
